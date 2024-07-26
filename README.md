@@ -39,6 +39,6 @@ Este projeto é um trabalho em andamento e faz parte da minha formação como de
 - **Email:** fabiooprogramador@gmail.com
 - **LinkedIn:** [Fabio Fernandes](https://www.linkedin.com/in/fabiogmf/)
 
-Agradeço por visitar meu projeto e espero que goste da experiência de navegação pelo Alura Books! 🚀📚
+Agradeço por visitar meu projeto e espero que goste da experiência de navegação pelo Alura Play! 🚀📚
 
 Criado com 💙 por Fabio Fernandes
