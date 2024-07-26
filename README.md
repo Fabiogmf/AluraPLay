@@ -31,7 +31,7 @@ O **Aluraplay** é uma página web responsiva que exibe uma lista de vídeos de 
 - **YouTube Embeds:** Integração perfeita com vídeos do YouTube.
 
 ## Visite o Projeto
-Você pode acessar o site do Alura Books através deste [link](https://.vercel.app/).
+Você pode acessar o site do Alura Books através deste [link]([https://.vercel.app/](https://alura-play-woad.vercel.app/)).
 
 ## Contato
 Este projeto é um trabalho em andamento e faz parte da minha formação como desenvolvedor. Se você tiver sugestões ou quiser entrar em contato, pode me encontrar em:
